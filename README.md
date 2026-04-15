@@ -19,6 +19,6 @@ Power BI Desktop, DAX, Power Query, Microsoft Excel
 
 What I Learned
 This project strengthened my understanding of data modelling, DAX measures, and designing dashboards that are both visually clean and functionally rich. It showed me how analytics can directly support workforce planning and retention strategy decisions.
+<img width="2778" height="1536" alt="HR Analytics Project IMG" src="https://github.com/user-attachments/assets/eff75373-cb65-481b-ad60-d9370921b40d" />
 
-![Uploading HR Analytics Project IMG.png…]()
 
