@@ -12,3 +12,4 @@ Tools Used
 Power BI Desktop, DAX, Power Query, Microsoft Excel
 What I Learned
 This project strengthened my understanding of data modelling, DAX measures, and designing dashboards that are both visually clean and functionally rich. It showed me how analytics can directly support workforce planning and retention strategy decisions.
+![Uploading 1.png…]()
